@@ -55,7 +55,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ### 2. GET SESSION ID SERVER 
 
-You will need a session ID to run CASEYRHODES-XMD. Click the button below to obtain your session ID:
+You will need a session ID to run MACODER-XMD. Click the button below to obtain your session ID:
 
 <a href='https://macoder-session.onrender' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
